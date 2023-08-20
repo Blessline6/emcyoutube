@@ -1,2 +1,1 @@
-created text1.txt file
-Changed
+created text1.txt changed
